@@ -1,10 +1,10 @@
-﻿Console.WriteLine("Задача 25");
-Console.WriteLine("..........................................................");
+﻿Console.WriteLine("Задача 25 ");
+Console.WriteLine(".......................................................... ");
 
 
-Console.WriteLine("введите число A");
+Console.WriteLine("Введите число A: ");
 int a = Convert.ToInt32(Console.ReadLine());
-Console.WriteLine("введите число B");
+Console.WriteLine("Введите число B: ");
 int b = Convert.ToInt32(Console.ReadLine());
 int step = a;
 
